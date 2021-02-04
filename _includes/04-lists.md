@@ -1,0 +1,4 @@
+- Astrology
+- Visual arts
+- Science and technology
+- Philosophy
