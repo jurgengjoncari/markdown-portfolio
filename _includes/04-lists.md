@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Astrology
+- Visual arts
+- Science and technology
+- Philosophy
